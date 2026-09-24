@@ -73,4 +73,6 @@ If you want to run the first 90 days and see what the checkpoints say, I will he
 
 I name tools only as dated examples. The names change faster than the method.
 
+License: CC BY 4.0. Copy it, adapt it, keep my name on it. The full text is in `LICENSE`.
+
 Marcos Nähr
