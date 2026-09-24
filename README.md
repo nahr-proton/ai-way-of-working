@@ -1,5 +1,7 @@
 # The AI Way of Working: the kit
 
+![The gap is not AI. It is the process around it. The eight parts, two entry points, the design lens through all eight, and the first week.](poster.png)
+
 **What it is:** the files a team copies into its own repo, wiki and spreadsheet to run the AI Way of Working, starting today.
 **Who fills it in:** the way of working owner, whoever runs how the team produces (founder, CTO, Head of Product, COO). They hand each file to the person named on it.
 **When:** start with the self check on day 1. Every file says on its first lines who fills it in and when.
