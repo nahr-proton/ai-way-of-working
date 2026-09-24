@@ -1,0 +1,5 @@
+# inventory.csv: one row per AI tool, with its data level and its approvals A1 to A3. Kept by the tool owner.
+# Who fills it in: the tool owner. Anyone who starts using a tool with level 1 data (anything you would publish) tells them the same week. Kinds and levels are in AI-POLICY.md.
+# When: day 1 from the bill, last month's shipped changes and the chat channel; then with every approval; spend (M6) read from it monthly. The row starting EXAMPLE shows how to fill it in: delete it.
+"Tool","Owner","Kind (see AI-POLICY.md)","Account type (personal or business)","Used by","Highest level allowed (1 Open, 2 Internal, 3 Restricted)","Terms in place","Level 3 sources cleared (A2)","Agent write access (A3), until","Approved by","Approved on","Cost per month"
+"EXAMPLE: team chat assistant","the CTO","Business plan of a chat or assistant tool","business","everyone","3","vendor's standard data processing terms","support tickets without attachments","none","the CTO","2 Oct 2026","from the bill"

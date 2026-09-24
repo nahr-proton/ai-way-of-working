@@ -1,0 +1,5 @@
+# edit-rate-tally.csv: M3, what the reviewer saw at review, one row per item opened. Kept by the experience quality owner.
+# Who fills it in: the experience quality owner, one row for each of the five merged low lane changes sampled at random each week, and for every high lane review. Mix UI and customer facing copy. No names of people on this sheet, ever.
+# When: logged weekly as you open each item, read monthly. Edit rate = (changes asked + sent back) / items. Below about ten items a month, write the count (4 of 20) and do not split by tool or area. The row starting EXAMPLE shows how to fill it in: delete it.
+"Week","Item (link)","Kind (UI or copy)","Tool","Product area","Lane (high or low)","At review (accepted as submitted, changes asked, sent back)","Severity if a problem (S1 to S4)","Note"
+"EXAMPLE: week of 12 Oct 2026","link to the merged change","UI","coding assistant","billing settings","low","changes asked","S3","new button style instead of the one in patterns.md"

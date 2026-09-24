@@ -1,0 +1,11 @@
+# hats.csv: who wears which hat, for how many hours, and what they stop doing to make room. Kept by the way of working owner.
+# Who fills it in: the way of working owner, with each person taking a hat. One name per hat. Most hats per head: three at about 25 people, two at 80, one at 200. Experience quality owner: a designer if there is one, otherwise the PM, never an engineer.
+# When: week one: an afternoon to name them, confirmed within the week. Reviewed every three months. The row starting EXAMPLE shows how to fill it in: delete it.
+"Hat","Decides","Name","Since","Hours per week","Backup when away","What they stop doing to make room"
+"EXAMPLE: Experience quality owner","Whether AI generated UI or copy is fit to ship","the PM (no designer yet)","5 Oct 2026","3","the founder","building low lane UI"
+"Way of working owner","Any change to a production step. Who wears which hat","","","","",""
+"Tool owner","Whether a tool comes in or stays. Keeps the inventory","","","","",""
+"Rules owner","Data sources, agent access, exceptions. Keeps the one page policy","","","","",""
+"Experience quality owner","Whether AI generated UI or copy is fit to ship. Keeps patterns.md, the severity scale, the high severity list, the release checklist","","","","",""
+"Practice champion (optional below about 50 people)","Nothing. Runs the demo slot, keeps shared prompts tidy","","","","none needed",""
+"Customer contact owner (one name for the 90 days)","Whether an AI reply reaches a customer unread, and how it is labeled","","","","",""
