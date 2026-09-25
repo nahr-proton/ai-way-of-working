@@ -70,7 +70,7 @@ If you want to run the first 90 days and see what the checkpoints say, I will he
 ## More
 
 - The eight parts, with cases and reasons: the website, address to be added.
-- The same kit as a Notion template you can duplicate: address to be added.
+- The same kit as a Notion template you can duplicate, with the sheets as databases: https://pickle-thief-449.notion.site/AI-Way-of-Working-3e5f11bd02a981908f38d91896323c7f
 - How this compares with other models: the website, address to be added.
 
 I name tools only as dated examples. The names change faster than the method.
