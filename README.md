@@ -56,9 +56,9 @@ Inventory, one team, hats, numbers, one message.
 
 A cartoon of the Start path at a company of 25 people with no designer: who does what, from day 1 to day 90, and which kit file each step uses. The company and its numbers are invented.
 
-![The cast of the cartoon, what a hat is, and week one day by day](comic/1-who-and-week-one.png)
+![The cast of the cartoon, what a hat is, and week one day by day](comic/1-who-and-week-one-v2.png)
 
-The rest of the story: [days 1 to 30](comic/2-days-1-to-30.png) and [days 31 to 90](comic/3-days-31-to-90.png). The whole comic as one page: https://marcosnahr.com/ai-way-of-working/first-90-days
+The rest of the story: [days 1 to 30](comic/2-days-1-to-30-v2.png) and [days 31 to 90](comic/3-days-31-to-90-v2.png). The whole comic as one page: https://marcosnahr.com/ai-way-of-working/first-90-days
 
 ## How to start today
 
