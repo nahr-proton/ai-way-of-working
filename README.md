@@ -60,8 +60,6 @@ A cartoon of the Start path at a company of 25 people with no designer: who does
 
 The rest of the story: [days 1 to 30](comic/2-days-1-to-30.png) and [days 31 to 90](comic/3-days-31-to-90.png). The whole comic as one page: https://marcosnahr.com/ai-way-of-working/first-90-days
 
-Characters by svstudioart. Designed by Magnific: https://www.magnific.com
-
 ## How to start today
 
 1. Paste `prompts/self-check.md` into an assistant on a company account and answer its questions. You get your two pages and your path.
@@ -85,6 +83,6 @@ If you want to run the first 90 days and see what the checkpoints say, I will he
 
 I name tools only as dated examples. The names change faster than the method.
 
-License: CC BY 4.0. Copy it, adapt it, keep my name on it. The full text is in `LICENSE`. One exception: the images in `comic/` use characters by svstudioart, designed by Magnific (https://www.magnific.com). They are under Magnific's license, not CC BY 4.0, and the characters may not be redistributed on their own.
+License: CC BY 4.0. Copy it, adapt it, keep my name on it. The full text is in `LICENSE`. That includes the comic in `comic/`, whose illustrations were made for it with Higgsfield.
 
 Marcos Nähr
