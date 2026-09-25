@@ -10,7 +10,7 @@
 
 The gap is not AI. It is the process around it: who decides, with what data, and who guards what the customer sees when anyone can generate a screen. This kit is that process, written as files to fill in: a policy, a hats sheet, a production map, a patterns file your AI tools read, a release checklist for pull requests, six prompts and five sheets.
 
-The method is called the AI Way of Working. It is for companies of 20 to 250 people whose product or service has a user interface. What follows is my judgment, backed by named company cases where they exist. The eight parts hold the cases, the sources and the reasoning. The Notion template carries them today as pages to fill in; the full text comes to marcosnahr.com after its redesign.
+The method is called the AI Way of Working. It is for companies of 20 to 250 people whose product or service has a user interface. What follows is my judgment, backed by named company cases where they exist. The eight parts hold the cases, the sources and the reasoning. The Notion template carries them today as pages to fill in; the full text comes to marcosnahr.com in a second wave.
 
 ## Where this sits
 
@@ -58,7 +58,7 @@ A cartoon of the Start path at a company of 25 people with no designer: who does
 
 ![The cast of the cartoon, what a hat is, and week one day by day](comic/1-who-and-week-one.png)
 
-The rest of the story: [days 1 to 30](comic/2-days-1-to-30.png) and [days 31 to 90](comic/3-days-31-to-90.png).
+The rest of the story: [days 1 to 30](comic/2-days-1-to-30.png) and [days 31 to 90](comic/3-days-31-to-90.png). The whole comic as one page: https://marcosnahr.com/ai-way-of-working/first-90-days
 
 Characters by svstudioart. Designed by Magnific: https://www.magnific.com
 
@@ -79,6 +79,7 @@ If you want to run the first 90 days and see what the checkpoints say, I will he
 
 ## More
 
+- The method on the web: https://marcosnahr.com/ai-way-of-working
 - The eight parts as pages to fill in, and the same kit as a Notion template you can duplicate, with the sheets as databases: https://pickle-thief-449.notion.site/AI-Way-of-Working-3e5f11bd02a981908f38d91896323c7f
 - The full parts with cases and reasons, and how this compares with other models: coming to marcosnahr.com.
 
