@@ -10,7 +10,7 @@
 
 The gap is not AI. It is the process around it: who decides, with what data, and who guards what the customer sees when anyone can generate a screen. This kit is that process, written as files to fill in: a policy, a hats sheet, a production map, a patterns file your AI tools read, a release checklist for pull requests, six prompts and five sheets.
 
-The method is called the AI Way of Working. It is for companies of 20 to 250 people whose product or service has a user interface. What follows is my judgment, backed by named company cases where they exist. The eight parts on the website hold the cases, the sources and the reasoning.
+The method is called the AI Way of Working. It is for companies of 20 to 250 people whose product or service has a user interface. What follows is my judgment, backed by named company cases where they exist. The eight parts hold the cases, the sources and the reasoning. The Notion template carries them today as pages to fill in; the full text comes to marcosnahr.com after its redesign.
 
 ## Where this sits
 
@@ -52,6 +52,16 @@ Inventory, one team, hats, numbers, one message.
 | 4 | Write down today's lead time, review wait and rework | `sheets/scorecard.csv` |
 | 5 | One message to everyone: what changes first, what stays the same, and that AI use is allowed and judged by whether the work works | Your usual channel |
 
+## Who does what, in pictures
+
+A cartoon of the Start path at a company of 25 people with no designer: who does what, from day 1 to day 90, and which kit file each step uses. The company and its numbers are invented.
+
+![The cast of the cartoon, what a hat is, and week one day by day](comic/1-who-and-week-one.png)
+
+The rest of the story: [days 1 to 30](comic/2-days-1-to-30.png) and [days 31 to 90](comic/3-days-31-to-90.png).
+
+Characters by svstudioart. Designed by Magnific: https://www.magnific.com
+
 ## How to start today
 
 1. Paste `prompts/self-check.md` into an assistant on a company account and answer its questions. You get your two pages and your path.
@@ -69,12 +79,11 @@ If you want to run the first 90 days and see what the checkpoints say, I will he
 
 ## More
 
-- The eight parts, with cases and reasons: the website, address to be added.
-- The same kit as a Notion template you can duplicate, with the sheets as databases: https://pickle-thief-449.notion.site/AI-Way-of-Working-3e5f11bd02a981908f38d91896323c7f
-- How this compares with other models: the website, address to be added.
+- The eight parts as pages to fill in, and the same kit as a Notion template you can duplicate, with the sheets as databases: https://pickle-thief-449.notion.site/AI-Way-of-Working-3e5f11bd02a981908f38d91896323c7f
+- The full parts with cases and reasons, and how this compares with other models: coming to marcosnahr.com.
 
 I name tools only as dated examples. The names change faster than the method.
 
-License: CC BY 4.0. Copy it, adapt it, keep my name on it. The full text is in `LICENSE`.
+License: CC BY 4.0. Copy it, adapt it, keep my name on it. The full text is in `LICENSE`. One exception: the images in `comic/` use characters by svstudioart, designed by Magnific (https://www.magnific.com). They are under Magnific's license, not CC BY 4.0, and the characters may not be redistributed on their own.
 
 Marcos Nähr

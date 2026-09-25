@@ -1,8 +1,8 @@
 # Prompt: map our steps
 
 **What it is:** a prompt that walks you through your production map: your steps folded into seven, where AI acts, and the one human decision (the gate) at each step. It hands back section 3 of `WAY-OF-WORKING.md`, filled in.
-**Who fills it in:** the way of working owner, ideally with up to three people who do the work next to them. At about 150 people, map one team first: the one with the longest review queue.
-**When:** week two or three, after the hats are named. Ninety minutes. Have the self check inventory open.
+**Who fills it in:** one person, usually the one running the 90 day plan, alone. Then three people who do the work see the result, one at a time. The way of working owner does not need to be there. At about 150 people, map one team first: the one with the longest review queue.
+**When:** week two or three, after the hats are named. About an hour, then ten minutes with each of the three. Have the self check inventory open.
 
 Fill the blanks, then paste everything in the box into an assistant on a company account. Do not paste customer records, contracts or secrets.
 

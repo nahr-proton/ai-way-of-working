@@ -2,7 +2,7 @@
 
 **What it is:** three sheets on one page: who wears which hat, who decides what, and your production map with a named human decision at every step.
 **Who fills it in:** the way of working owner, whoever runs how the team produces (founder, CTO, Head of Product, COO).
-**When:** the hats and decision rights in week one: an afternoon to name them, confirmed within the week. The map in week two or three, ninety minutes. Review every three months.
+**When:** the hats and decision rights in week one: an afternoon to name them, confirmed within the week. The map in week two or three: about an hour for one person, then ten minutes with each of three people. Review every three months.
 
 Put the finished page where the team already looks, not in a new tool. A hat is a set of decisions added to a job someone already has. Nobody is hired for it, and the org chart stays as it is.
 
@@ -75,7 +75,7 @@ The three things that change this quarter: {{one}}, {{two}}, {{three}}. What sta
 
 Team: {{name}}. Mapped on: {{date}}. Map owner: {{way of working owner}}. Path: {{Start or Fix}}.
 
-How to fill it: follow one real recent change from idea to customer and write what actually happened, not what should have. Ninety minutes, best with three people who do the work (`prompts/map-our-steps.md` walks you through it). Then show the map to three people who were not there, one at a time: {{three names}}. Where they would draw it differently: {{where, or nowhere}}.
+How to fill it: follow one real recent change from idea to customer and write what actually happened, not what should have. About an hour, one person, usually the one running the plan (`prompts/map-our-steps.md` walks you through it). Then show the map to three people who do the work, one at a time: {{three names}}. Where they would draw it differently: {{where, or nowhere}}.
 
 **Start minimum.** On the Start path, month one runs only three gates as written: G3 (plan before code), G4 (review lanes) and G7 (AI replies to customers). G1, G2, G5 and G6 read "the founder decides" until a signal says otherwise: a defect, a complaint or a queue at that step.
 
